@@ -3,3 +3,7 @@
 2. File 1-confused_smiley displays a confused smilley.
 
 3. File 2-hellofile display the content of the /etc/passwd file.
+
+4. File 3-twofiles Display the content of /etc/passwd and /etc/hosts.
+
+5. 
