@@ -10,3 +10,5 @@ Value: rm *.
 4. File 3-paths counts the number of directories in the PATH.
 
 5. File 4-global_variables lists environment variables.
+
+6. File 5-local_variables lists all local variables and environment variables, and functions.
