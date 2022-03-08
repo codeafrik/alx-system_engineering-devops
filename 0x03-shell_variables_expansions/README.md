@@ -59,3 +59,9 @@ The script should display the number in base 16, followed by a new line.
 16. File 01-rot13 encodes and decodes text using the rot13 encryption. Assume ASCII.
 
 17. File 102-odd prints every other line from the input, starting with the first line.
+
+18. File 103-water_and_stir adds the two numbers stored in the environment variables WATER and STIR and prints the result.
+
+WATER is in base water
+STIR is in base stir.
+The result should be in base bestchol
