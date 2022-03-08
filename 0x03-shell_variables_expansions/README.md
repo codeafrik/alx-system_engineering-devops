@@ -22,3 +22,5 @@ Value: School
 
 Name: BEST
 Value: School.
+
+9. File 8-true_knowledge prints the result of the addition of 128 with the value stored in the environment variable TRUEKNOWLEDGE, followed by a new line.
