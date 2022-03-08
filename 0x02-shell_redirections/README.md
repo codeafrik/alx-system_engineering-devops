@@ -47,3 +47,5 @@ Words should be sorted.
 19. File 18-letteronly Display all lines of the file /etc/ssh/sshd_config starting with a letter.
 
 20. File 19-AZ Replace all characters A and c from input to Z and e respectively.
+
+21. File 20-hiago removes all letters c and C from input.
