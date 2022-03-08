@@ -1,0 +1,1 @@
+File 0-hello_world prints "hello World" tofollwed by a new line to the standrd output.
