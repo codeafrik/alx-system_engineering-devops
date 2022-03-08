@@ -51,3 +51,7 @@ Words should be sorted.
 21. File 20-hiago removes all letters c and C from input.
 
 22. File 21-reverse Write a script that reverse its input.
+
+23. File 22-users_and_homes displays all users and their home directories, sorted by users.
+
+Based on the the /etc/passwd file.
