@@ -71,3 +71,7 @@ The names of the files should be displayed without their extensions
 The files should be sorted by byte values, but case-insensitive (file aaa should be listed before file bbb, file .b should be listed before file a, and file Rona should be listed after file jay)
 One file name per line
 The listing should end with a new line/.
+
+26. File 102-acrostic decodes acrostics that use the first letter of each line.
+
+The ‘decoded’ message has to end with a new line.
