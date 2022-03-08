@@ -49,3 +49,5 @@ Words should be sorted.
 20. File 19-AZ Replace all characters A and c from input to Z and e respectively.
 
 21. File 20-hiago removes all letters c and C from input.
+
+22. File 21-reverse Write a script that reverse its input.
