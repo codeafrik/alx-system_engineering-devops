@@ -17,3 +17,8 @@ Value: rm *.
 
 Name: BEST
 Value: School
+
+8. File 7-create_global_variable creates a new global variable.
+
+Name: BEST
+Value: School.
