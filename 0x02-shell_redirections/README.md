@@ -37,3 +37,5 @@ Output format: One line, one word
 Words should be sorted.
 
 15. File 14-findthatword Display lines containing the pattern “root” from the file /etc/passwd.
+
+16. File 15-countthatword Display the number of lines that contain the pattern “bin” in the file /etc/passwd.
