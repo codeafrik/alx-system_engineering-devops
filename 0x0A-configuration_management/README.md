@@ -1,1 +1,1 @@
-Server Configuration Management
+This directory is about Configuration Management
