@@ -1,1 +1,1 @@
-This Directory is about SSH.
+This Directory is about SSH Keys.
